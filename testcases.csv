@@ -1,5 +1,4 @@
-testcaseid,description,keywords,cc
-TC001,Check for successful creation of a new account by booking a ticket,Register New User;Book Ticket;Logout,Promocode
+testcaseid,description,keywords,ccTC001,Check for successful creation of a new account by booking a ticket,Register New User;Book Ticket;Logout,Promocode
 TC002,Login as an existing user & view the ticket details,Login;View Ticket;Logout,
 TC003,Login as an existing user & book a new ticket  using VISA CC,Login;Book Ticket;Logout,VISA
 TC004,Login as an existing user & book a new ticket  using MasterCard CC,Login;Book Ticket;Logout,MasterCard
